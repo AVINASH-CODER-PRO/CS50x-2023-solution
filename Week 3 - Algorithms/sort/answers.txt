@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: less time in already sorted data eg for sorted50000.txt
+
+sort2 uses: Merge Sort
+
+How do you know?: less time in random50000.txt where its perform way better than other two
+
+sort3 uses: Selection Sort
+
+How do you know?: more time in all the three cases that signfies its O(n^2) notation irrespective of the cases
